@@ -201,8 +201,3 @@ Madhav Sharma
 Shresth Kumar Gupta
 Mihir Bansal
 Vikram Singh
-Advanced anti-fraud ML models
-
-Full payout automation with UPI sandbox
-
-Admin dashboard with predictive analytics

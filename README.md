@@ -48,6 +48,7 @@ The result: automated, reliable, instant, fraud-resistant payouts for genuine wo
 ---
 
 ## 🧠 How GigGuard’s Trigger & Claim Engine Works
+--
 
 1) External Disruption Signal Layer
 
@@ -64,6 +65,7 @@ Government curfews
 Mocked traffic/zone shutdowns
 
 When thresholds hit → a parametric trigger is fired.
+--
 
 2) Worker Activity Validation Layer
 

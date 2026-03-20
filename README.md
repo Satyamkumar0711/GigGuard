@@ -1,6 +1,8 @@
 🛡️ GigGuard – AI-Powered Parametric Income Protection for Gig Workers
+---
 
 Tagline: From real-time disruptions to instant payouts — protecting gig workers when work stops.
+---
 
 📌 Overview
 

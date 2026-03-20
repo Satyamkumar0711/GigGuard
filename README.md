@@ -2,7 +2,7 @@
 ---
 
 Tagline: From real-time disruptions to instant payouts — protecting gig workers when work stops.
----
+
 
 📌 Overview
 

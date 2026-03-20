@@ -193,11 +193,14 @@ On-device risk inference for low-latency validation
 ---
 
 ## 👥 Team
-Team Name: BugSlayer
-Hackathon: Guidewire DEVTrails 2026: Unicorn Chase
 
-Satyam Kumar(Team Leader)
-Madhav Sharma
-Shresth Kumar Gupta
-Mihir Bansal
-Vikram Singh
+**Team Name:** `BugSlayer`  
+**Hackathon:** `Guidewire DEVTrails 2026: Unicorn Chase`  
+
+- **Satyam Kumar**
+- **Madhav Sharma**
+- **Shresth Kumar Gupta**
+- **Mihir Bansal**
+- **Vikram Singh**
+
+---

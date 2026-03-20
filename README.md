@@ -3,13 +3,16 @@
 
 Tagline: From real-time disruptions to instant payouts — protecting gig workers when work stops.
 
+---
 
 ## 📌 Overview
 
 GigGuard brings parametric income protection to India’s gig workers, offering automatic payouts during external disruptions like heavy rain, extreme heat, pollution spikes, or curfews.
 The system detects these events in real time, verifies them using multi-signal validation, and triggers zero-touch claims backed by AI-driven fraud protection.
 
-##❗ Problem Statement
+---
+
+## ❗ Problem Statement
 
 Gig workers lose 20–30% of their income due to uncontrollable events.
 However, existing systems rely heavily on GPS + self-reporting, making them vulnerable to:
@@ -24,7 +27,9 @@ Repeated payouts across multiple accounts
 
 This results in loss of trust, operational inefficiency, and large financial leaks for insurers.
 
-✅ Our Solution
+---
+
+## ✅ Our Solution
 
 GigGuard introduces a multi-layer parametric verification engine that validates disruptions and payouts using:
 
@@ -40,7 +45,10 @@ Weekly pricing aligned with gig worker earning cycles
 
 The result: automated, reliable, instant, fraud-resistant payouts for genuine workers.
 
-🧠 How GigGuard’s Trigger & Claim Engine Works
+---
+
+## 🧠 How GigGuard’s Trigger & Claim Engine Works
+
 1) External Disruption Signal Layer
 
 Monitors real-time conditions such as:
@@ -113,7 +121,9 @@ Payout pushed instantly via mock UPI/Razorpay
 
 No paperwork. No manual claim filing. Completely zero-touch.
 
-⚙️ Key System Strengths
+---
+
+## ⚙️ Key System Strengths
 
 Automated income protection
 
@@ -126,6 +136,8 @@ Weekly pricing tailored for gig workers
 Smooth worker onboarding
 
 Easy-to-use dashboard with protection summary
+
+---
 
 💡 Why This Matters
 

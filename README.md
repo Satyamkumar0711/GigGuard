@@ -48,9 +48,8 @@ The result: automated, reliable, instant, fraud-resistant payouts for genuine wo
 ---
 
 ## 🧠 How GigGuard’s Trigger & Claim Engine Works
---
 
-1) External Disruption Signal Layer
+## 1) External Disruption Signal Layer
 
 Monitors real-time conditions such as:
 
@@ -65,9 +64,10 @@ Government curfews
 Mocked traffic/zone shutdowns
 
 When thresholds hit → a parametric trigger is fired.
---
 
-2) Worker Activity Validation Layer
+---
+
+## 2) Worker Activity Validation Layer
 
 To ensure the worker was genuinely affected:
 
@@ -81,7 +81,9 @@ Location consistency (spoofing detection)
 
 This keeps the system fair for genuine workers.
 
-3) AI/ML Risk & Fraud Layer
+---
+
+## 3) AI/ML Risk & Fraud Layer
 
 GigGuard uses behavioral and anomaly detection models:
 
@@ -95,7 +97,9 @@ Device + activity mismatch patterns
 
 Scores are aggregated into a Risk Confidence Score.
 
-4) Weekly Premium Model
+---
+
+## 4) Weekly Premium Model
 
 Premiums adjust dynamically based on real-time risk:
 
@@ -111,7 +115,9 @@ Worker-specific reliability history
 
 Result: predictable, affordable, weekly micro-insurance.
 
-5) Instant Payout Engine
+---
+
+## 5) Instant Payout Engine
 
 Once a disruption is validated:
 
@@ -141,7 +147,7 @@ Easy-to-use dashboard with protection summary
 
 ---
 
-💡 Why This Matters
+## 💡 Why This Matters
 
 Gig workers survive on daily earnings.
 Even one day of disruption → real financial risk.
@@ -156,7 +162,9 @@ Fraud-resistant
 
 Affordable
 
-🚀 Advantages
+---
+
+## 🚀 Advantages
 
 Zero manual claims — everything auto-triggered
 
@@ -168,7 +176,9 @@ High scalability for gig platforms
 
 Works across food, grocery & e-commerce delivery sectors
 
-🔮 Future Enhancements
+---
+
+## 🔮 Future Enhancements
 
 Route-based risk scoring
 
@@ -180,7 +190,9 @@ Admin predictive analytics dashboard
 
 On-device risk inference for low-latency validation
 
-👥 Team
+---
+
+## 👥 Team
 Team Name: BugSlayer
 Hackathon: Guidewire DEVTrails 2026: Unicorn Chase
 
@@ -189,13 +201,6 @@ Madhav Sharma
 Shresth Kumar Gupta
 Mihir Bansal
 Vikram Singh
-
-🔮 What's Next
-
-Geofencing-based risk scoring
-
-Real delivery platform API integration
-
 Advanced anti-fraud ML models
 
 Full payout automation with UPI sandbox
